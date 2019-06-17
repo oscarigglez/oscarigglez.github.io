@@ -7,9 +7,9 @@ permalink:        pretty
 #relative_permalinks: true  # This option has been deprecated from Jekyll
 
 # Setup
-title:            "Dumb chemist energy"
+title:            "Big Óscar energy"
 tagline:          "by Óscar"
-description:      "A blog about chemistry and data science"
+description:      "A blog about science, data and love"
 url:              http://oscarigglez.github.io
 baseurl:          /
 
