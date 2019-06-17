@@ -11,7 +11,7 @@ title:            "Dumb chemist energy"
 tagline:          "by Óscar"
 description:      "A blog about chemistry and data science"
 url:              http://oscarigglez.github.io
-baseurl:          /oscarigglez.github.io/
+baseurl:          /
 
 author:
   name:           'Oski'
