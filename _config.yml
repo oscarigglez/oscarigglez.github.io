@@ -8,8 +8,8 @@ permalink:        pretty
 
 # Setup
 title:            Dumb chemist energy
-tagline:          'A blog about Python and math'
-description:      'Hey ya hey ya hey ya'
+tagline:          'by Óscar'
+description:      'A blog about Python, chemistry and data science'
 url:              http://oscarigglez.github.io
 baseurl:          /oscarigglez.github.io/
 
