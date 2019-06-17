@@ -11,7 +11,7 @@ title:            Dumb chemist energy
 tagline:          'A blog about Python and math'
 description:      'Hey ya hey ya hey ya'
 url:              http://oscarigglez.github.io
-baseurl:          /
+baseurl:          /oscarigglez.github.io/
 
 author:
   name:           'Oski'
