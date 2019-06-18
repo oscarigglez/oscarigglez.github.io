@@ -29,4 +29,3 @@ class System:
 ```
 
 **Amazing coding skills.**
-Lo sé.
