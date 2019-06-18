@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python test
+description: Esta es... otra descripción. :o
 tags: chemistry python
 published: true
 ---
