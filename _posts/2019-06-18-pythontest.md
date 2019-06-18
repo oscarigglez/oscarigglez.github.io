@@ -2,7 +2,7 @@
 layout: post
 title: Python test
 tags: chemistry python
-published: false
+published: true
 ---
 
 
