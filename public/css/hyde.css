@@ -176,12 +176,17 @@ a.sidebar-nav-item:focus {
  */
 
 /* Cool custom theme hehehe */
+
+:root {
+  --cool-color: #88b04b;
+}
+
 .theme-cool .sidebar {
-  background-color: #88b04b;
+  background-color: var(--cool-color);
 }
 .theme-cool .content a,
 .theme-cool .related-posts li a:hover {
-  color: #88b04b;
+  color: var(--cool-color);
 }
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
