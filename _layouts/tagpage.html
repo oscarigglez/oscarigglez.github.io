@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="posts">
-  <h1 class="tag-title">All of the posts about: <code class="highlighter-rouge">{{ page.tag }}</code></h1>
+  <h1 class="tag-title">All of the posts about: <code class="coral-red">{{ page.tag }}</code></h1>
   <a class="tag-navigation" href="/tagindex/{{ page.tag }}">Tag index</a>
   {% for post in site.tags[page.tag] %}
   <div class="post">
