@@ -447,3 +447,7 @@ a.pagination-item:hover {
   display: block;
   margin-top: -.5rem;
   margin-bottom: .5rem;}
+
+.highlighter-rouge {
+  color: #fa7268;
+}
