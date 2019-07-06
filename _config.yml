@@ -1,6 +1,7 @@
 # Dependencies
 #markdown:         redcarpet  # redcarpet is no longer supported!
 highlighter:      rouge
+mathjax:          true
 
 # Permalinks
 permalink:        pretty
