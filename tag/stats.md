@@ -1,7 +1,7 @@
 ---
 layout: tagpage
-title: "Tag: chemistry"
-tag: chemistry
+title: "Tag: stats"
+tag: stats
 mathjax: true
 robots: noindex
 ---
