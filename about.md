@@ -4,6 +4,7 @@ title: About me
 ---
 
 **My name is Óscar and my passion is learning new stuff.**
+
 *Other smaller more specific passions include cooking, art, design, music, dancing, v-games and many more.*
 
 Hi there! Thanks for passing by. 🤩
