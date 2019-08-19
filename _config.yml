@@ -7,15 +7,15 @@ permalink:        pretty
 #relative_permalinks: true  # This option has been deprecated from Jekyll
 
 # Setup
-title:            "Big Óscar energy"
-tagline:          "stuff"
-description:      "A blog about chemistry, data science and love"
+title:            "Óscar Igrexas"
+tagline:          "jack of all trades"
+description:      "Follow me on my journey through learning everything"
 url:              http://oscarigglez.github.io
 #baseurl:          /
 
 author:
-  name:           'oscarigglez'
-#  url:            https://twitter.com/oscarigglez
+  name:           'oscarigrexas'
+#  url:            https://twitter.com/oscarigrexas
 
 paginate:         5
 
