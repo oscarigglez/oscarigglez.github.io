@@ -10,7 +10,7 @@ permalink:        pretty
 title:            "Óscar Igrexas"
 tagline:          "jack of all trades"
 description:      "Follow me on my journey through learning everything"
-url:              http://oscarigglez.github.io
+url:              http://oscarigrexas.github.io
 #baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/oscarigglez/oscarigglez.github.io
+  repo:           https://github.com/oscarigrexas/oscarigrexas.github.io
