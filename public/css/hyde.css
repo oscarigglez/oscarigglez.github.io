@@ -184,7 +184,15 @@ a.sidebar-nav-item:focus {
 
 .theme-cool .sidebar {
   background-color: var(--cool-color);
-  background-image: url("../../img/sunflowers.jpg")
+  background-image: url("../img/sunflowers.jpg");
+  background-size: cover;
+}
+
+.theme-cool .overlay {
+  background: rgba(0,0,0,0.5);
+  overflow: hidden;
+  height: 100%;
+  z-index: 2;
 }
 
 .theme-cool .content a,
