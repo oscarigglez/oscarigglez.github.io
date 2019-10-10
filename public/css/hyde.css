@@ -180,7 +180,11 @@ a.sidebar-nav-item:focus {
 :root {
   --cool-color: #009874;
   --cool-color: #5f4b8b;
-  --sunflower-green: #81aa6b;
+  --sf-green: #81aa6b;
+  --sf-orange-dark: #d8912d;
+  --sf-orange-light: #eca740;
+  --sf-yellow: #f4ca45;
+  --sf-brown: #9e7e62;
 }
 
 .theme-cool .sidebar {
@@ -190,10 +194,10 @@ a.sidebar-nav-item:focus {
 }
 .theme-cool .content a,
 .theme-cool .related-posts li a:hover {
-  color: var(--cool-color);
+  color: var(--sf-orange-dark);
 }
 .theme-cool .colored-tag {
-  color: var(--sunflower-green);
+  color: var(--sf-green);
 }
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */

@@ -4,7 +4,7 @@ mathjax: true
 ---
 
 <div class="posts">
-  <h1 class="tag-title">All of the posts about: <code class="coral-red">{{ page.tag }}</code></h1>
+  <h1 class="tag-title">All of the posts about: <code class="colored-tag">{{ page.tag }}</code></h1>
   <a class="tag-navigation" href="/tagindex/{{ page.tag }}">Tag index</a>
   {% for post in site.tags[page.tag] %}
   <div class="post">
@@ -18,7 +18,7 @@ mathjax: true
       [&nbsp;
       {% for tag in post.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a class="no-underline" href="/tag/{{ tag_name }}"><code class="coral-red"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+        <a class="no-underline" href="/tag/{{ tag_name }}"><code class="colored-tag"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
       {% endfor %}
       ]
     </span>
