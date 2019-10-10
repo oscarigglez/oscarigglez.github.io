@@ -187,7 +187,6 @@ a.sidebar-nav-item:focus {
   background-image: linear-gradient(0deg,rgba(244,202,69,0.2),rgba(216,145,45,0.2)), url("../img/sunflowers.jpg");
   background-size: cover;
 }
-
 .theme-cool .content a,
 .theme-cool .related-posts li a:hover {
   color: var(--cool-color);
