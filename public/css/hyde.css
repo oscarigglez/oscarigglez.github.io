@@ -180,6 +180,7 @@ a.sidebar-nav-item:focus {
 :root {
   --cool-color: #009874;
   --cool-color: #5f4b8b;
+  --sunflower-green: #81aa6b;
 }
 
 .theme-cool .sidebar {
@@ -188,6 +189,9 @@ a.sidebar-nav-item:focus {
 .theme-cool .content a,
 .theme-cool .related-posts li a:hover {
   color: var(--cool-color);
+}
+.theme-cool code.colored-tag {
+  color: var(--sunflower-green);
 }
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */

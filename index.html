@@ -17,7 +17,7 @@ mathjax: true
       [&nbsp;
       {% for tag in post.tags %}
         {% capture tag_name %}{{ tag }}{% endcapture %}
-        <a class="no-underline" href="/tag/{{ tag_name }}"><code class="coral-red"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+        <a class="no-underline" href="/tag/{{ tag_name }}"><code class="colored-tag"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
       {% endfor %}
       ]
     </span>
