@@ -8,7 +8,7 @@ published: true
 ---
 
 
-Hi there! :heart:
+Hi there! 💕
 
 I'm still setting up the quite minimalistic features of this beautiful blog, but I already have many interesting projects in mind (some of them already completed and just waiting to be properly shared).
 We'll learn about programming, about math, about chemistry, about art... Stay tuned!
