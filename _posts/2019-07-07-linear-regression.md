@@ -4,7 +4,7 @@ title: Multiple linear regression from scratch
 description: This post doesn't have a description (yet)
 tags: python data-science stats
 mathjax: true
-published: true
+published: false
 ---
 
 
