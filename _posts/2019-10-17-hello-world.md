@@ -16,14 +16,17 @@ We'll learn about programming, about math, about chemistry, about art... Stay tu
 And now, some little tests I need to add in order to check that everything works and looks as I want it to!
 
 _Are the images working?_
+
 <p class="full-width">
 <img src="/public/img/leaf-man.jpg" width="50%" align="center"/>
 </p>
 
 _Is the math working?_
+
 $$h_\theta(x)=\theta^T x = \theta_0 x_0 + \theta_1 x_1 + \theta_2 x_2 + ... + \theta_n x_n$$
 
 _Is the code highlighting working?_
+
 ```python
 class System:
     def __init__(self, filename, mol_atoms):
