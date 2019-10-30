@@ -22,10 +22,6 @@ _Are the images working?_
 <img src="/public/img/leaf-man.jpg" alt="" /></a>
 </p>
 
-![leaf man](/public/img/leaf-man.jpg)
-
-[leaf man](/public/img/leaf-man.jpg)
-
 _Are the video links working?_
 
 [video link](https://youtu.be/iWowJBRMtpc?t=90s)

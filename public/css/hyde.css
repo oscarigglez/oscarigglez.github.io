@@ -201,6 +201,54 @@ a.sidebar-nav-item:focus {
   color: var(--sf-green);
 }
 
+/* NICE CUSTOM STUFF */
+
+#main .thumb > .image {
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+#main .thumb > h2 {
+    pointer-events: none;
+    bottom: 1.875em;
+    font-size: 0.8em;
+    left: 2.1875em;
+    margin: 0;
+    position: absolute;
+    z-index: 1;
+}
+
+#main .thumb > p {
+    display: none;
+}
+
+#main:after {
+    pointer-events: none;
+    -moz-transition: opacity 0.5s ease, visibility 0.5s;
+    -webkit-transition: opacity 0.5s ease, visibility 0.5s;
+    -ms-transition: opacity 0.5s ease, visibility 0.5s;
+    transition: opacity 0.5s ease, visibility 0.5s;
+    background: rgba(36, 38, 41, 0.25);
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+    width: 100%;
+    z-index: 1;
+}
+
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
 /* Red */
