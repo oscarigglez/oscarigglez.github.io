@@ -23,6 +23,12 @@ _Are the images working?_
 
 ![leaf man](/public/img/leaf-man.jpg)
 
+[leaf man](/public/img/leaf-man.jpg)
+
+_Are the video links working?_
+
+[video link](https://youtu.be/iWowJBRMtpc?t=90s)
+
 _Is the math working?_
 
 $$h_\theta(x)=\theta^T x = \theta_0 x_0 + \theta_1 x_1 + \theta_2 x_2 + ... + \theta_n x_n$$
