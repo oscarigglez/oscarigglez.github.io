@@ -18,7 +18,8 @@ And now, some little tests I need to add in order to check that everything works
 _Are the images working?_
 
 <p class="full-width">
-<img src="/public/img/leaf-man.jpg" width="50%" align="center"/>
+<a href="/public/img/leaf-man.jpg" class="image">
+<img src="/public/img/leaf-man.jpg" alt="" /></a>
 </p>
 
 ![leaf man](/public/img/leaf-man.jpg)
