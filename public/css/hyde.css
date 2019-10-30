@@ -203,7 +203,7 @@ a.sidebar-nav-item:focus {
 
 /* NICE CUSTOM STUFF */
 
-#main .thumb > .image {
+#main .thumb > img {
     width: 50%;
 }
 
