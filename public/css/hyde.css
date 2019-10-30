@@ -203,7 +203,9 @@ a.sidebar-nav-item:focus {
 
 /* NICE CUSTOM STUFF */
 
-
+#main .thumb > .image {
+    width: 50%;
+}
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
 
