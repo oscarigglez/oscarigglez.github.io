@@ -8,9 +8,9 @@ published: true
 ---
 
 
-Hi there! 💕
+Hi there!
 
-I'm still setting up the quite minimalistic features of this beautiful blog, but I already have many interesting projects in mind (some of them already completed and just waiting to be properly shared).
+I'm still setting up the quite minimalistic features of this pretty blog, but I already have many interesting projects in mind (some of them already completed and just waiting to be properly shared).
 We'll learn about programming, about math, about chemistry, about art... Stay tuned!
 
 And now, some little tests I need to add in order to check that everything works and looks as I want it to!
