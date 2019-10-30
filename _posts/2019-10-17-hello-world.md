@@ -19,8 +19,9 @@ _Are the images working?_
 
 <p class="full-width">
 <img src="/public/img/leaf-man.jpg" width="50%" align="center"/>
-![leaf man](/public/img/leaf-man.jpg)
 </p>
+
+![leaf man](/public/img/leaf-man.jpg)
 
 _Is the math working?_
 
