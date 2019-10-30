@@ -12,7 +12,7 @@ I'm still working on collecting them and choosing a lightweight but beautiful wa
 <div id="wrapper">
     <div id="main">
         <article class="thumb">
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man-s.jpg" alt="" /></a>
+            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
             <h2>Magna feugiat lorem</h2>
             <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
         </article>
