@@ -13,34 +13,9 @@ I'm still working on collecting them and choosing a lightweight but beautiful wa
     <div id="main">
         <article class="thumb">
             <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
+            <a href="/public/img/happy.jpg" class="image"></a>
+            <a href="/public/img/uno-boss.jpg" class="image"></a>
             <h2>Magna feugiat lorem</h2>
-            <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
-        </article>
-        <article class="thumb">
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
-            <h2>Nisl adipiscing</h2>
-            <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
-        </article>
-        <article class="thumb">
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
-            <h2>Tempus aliquam veroeros</h2>
-            <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
-        </article>
-        <article class="thumb">
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
-            <h2>Aliquam ipsum sed dolore</h2>
-            <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
-        </article>
-        <article class="thumb">
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
-            <h2>Cursis aliquam nisl</h2>
-            <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
-        </article>
-        <article class="thumb">
-            <a href="/public/img/leaf-man.jpg" class="image"><img src="/public/img/leaf-man.jpg" alt="" /></a>
-            <h2>Sed consequat phasellus</h2>
             <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
         </article>
     </div>

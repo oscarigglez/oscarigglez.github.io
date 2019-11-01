@@ -205,6 +205,8 @@ a.sidebar-nav-item:focus {
 
 #main .thumb > .image > img {
     width: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Base16 (http://chriskempson.github.io/base16/#default) */
