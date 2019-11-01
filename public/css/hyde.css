@@ -203,6 +203,10 @@ a.sidebar-nav-item:focus {
 
 /* NICE CUSTOM STUFF */
 
+#main .thumb {
+    display:inline-block;
+}
+
 #main .thumb > .image > img {
     width: 50%;
     margin-left: auto;
