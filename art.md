@@ -16,8 +16,6 @@ I'm still working on collecting them and choosing a lightweight but beautiful wa
             <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>
             <a href="/public/img/leaf-man.jpg" class="image">
             <img src="/public/img/leaf-man.jpg" alt="" />
-            <span><h2>Magna feugiat lorem</h2>
-            <p>Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.</p>abababababa</span>
             </a>
             <a href="/public/img/happy.jpg" class="image"></a>
             <a href="/public/img/uno-boss.jpg" class="image"></a>
