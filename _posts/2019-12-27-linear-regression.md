@@ -15,9 +15,9 @@ A linear relationship, in its simplest form, can be formulated as follows:
 
 $$y \approx \beta_0 + \beta_1x$$
 
-Sounds familiar? Here the behavior of the independent variable $y$ is defined as a line dependent on $x$, where $\beta_0$ is the value that $y$ must have when $x$ is equal to 0 (commonly known as the origin), and $\beta_1$ is the slope of the line.
+Sounds familiar? Here the behavior of the independent variable y is defined as a line dependent on x, where \(\beta_0\) is the value that y must have when x is equal to 0 (commonly known as the origin), and \(\beta_1\) is the slope of the line.
 
-If we extend this definition to be able to describe systems where $y$ depends on more than one independent variable (let's say $p$, as in "predictor") and we study each data point individually (from a collection of $n$ points), we could arrive to this expression:
+If we extend this definition to be able to describe systems where y depends on more than one independent variable (let's say p, as in "predictor") and we study each data point individually (from a collection of n points), we could arrive to this expression:
 
 $$y_i \approx \beta_0 + \beta_1 x_{i1} + \beta_2 x_{i2} + ... + \beta_p x_{ip} \quad i=1,...,n$$
 
