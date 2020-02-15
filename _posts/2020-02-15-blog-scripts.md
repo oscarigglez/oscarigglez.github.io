@@ -14,8 +14,7 @@ Simple enough, right?
 
 The following shell script simplifies this even further by automating it: I just type the name that I wanna give to my post, and a properly formatted file is generated and opened for me to type to my heart's desires.
 
-```new_post.sh```
-
+<code>new_post.sh</code>
 ```shell
 #!/bin/sh
 
