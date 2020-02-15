@@ -4,7 +4,7 @@ title: A pair of useful scripts
 description: Two simple shell scripts that help me manage my blog
 tags: blog scripts
 mathjax: false
-published: false
+published: true
 ---
 
 This blog, having been built on the wonderful Jekyll template called Hyde, has quite a neat method for adding new content: I just need to create a new Markdown file in the posts directory and include the publication date in its name using the following format ```YYYY-MM-DD-whatever.md```.
