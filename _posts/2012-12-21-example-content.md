@@ -15,8 +15,8 @@ published: false
 _Are the images working?_
 
 <p class="full-width">
-<a href="/public/img/leaf-man.jpg" class="image">
-<img src="/public/img/leaf-man.jpg" alt="" /></a>
+  <a href="/public/img/leaf-man.jpg" class="image">
+  <img src="/public/img/leaf-man.jpg" alt="" /></a>
 </p>
 
 _Are the video links working?_
