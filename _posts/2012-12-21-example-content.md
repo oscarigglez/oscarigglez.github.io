@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Example content
+description: A post to try all kinds of content
+tags: personal meta
+mathjax: true
 published: false
 ---
 
@@ -8,6 +11,40 @@ published: false
 <div class="message">
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
+
+_Are the images working?_
+
+<p class="full-width">
+<a href="/public/img/leaf-man.jpg" class="image">
+<img src="/public/img/leaf-man.jpg" alt="" /></a>
+</p>
+
+_Are the video links working?_
+
+[video link](https://youtu.be/iWowJBRMtpc?t=90s)
+
+_Is the math working?_
+
+$$h_\theta(x)=\theta^T x = \theta_0 x_0 + \theta_1 x_1 + \theta_2 x_2 + ... + \theta_n x_n$$
+
+_Is the code highlighting working?_
+
+```python
+class System:
+    def __init__(self, filename, mol_atoms):
+        self.filename = filename
+        self.id = str(filename[:-4])
+
+        with open(filename, 'r') as readfile:
+            self.lines = readfile.readlines()
+
+        self.wavenumber_list = []
+        for i in range(len(self.lines)):
+            if "Frequencies" in self.lines[i]:
+                self.wavenumber_list += self.lines[i].split()[2:]
+            else:
+                pass
+```
 
 Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

@@ -4,7 +4,7 @@ title: Multiple linear regression from scratch in Python
 description: A rough introduction to machine learning where I explain an implementation of a multiple linear regression model in Python using matrix notation and a gradient descent algorithm.
 tags: python data-science
 mathjax: true
-published: true
+published: false
 ---
 
 Linear regression is a statistical approach that may be used to model the relationship between a dependent variable (y) and independent ones (x). It's one of the simplest yet most widely used machine learning algorithms, and even as a chemist I've had my fair share of using linear regression to fit physical equations to the measurements I'd gotten in the lab.
