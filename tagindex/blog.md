@@ -1,6 +1,6 @@
 ---
 layout: tagindexpage
-title: "Tag: chemistry"
-tag: chemistry
+title: "Tag: blog"
+tag: blog
 robots: noindex
 ---

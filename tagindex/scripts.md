@@ -1,6 +1,6 @@
 ---
 layout: tagindexpage
-title: "Tag: cats"
-tag: cats
+title: "Tag: scripts"
+tag: scripts
 robots: noindex
 ---
