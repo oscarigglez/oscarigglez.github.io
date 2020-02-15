@@ -15,7 +15,7 @@ Simple enough, right?
 The following shell script simplifies this even further by automating it: I just type the name that I wanna give to my post, and a properly formatted file is generated and opened for me to type to my heart's desires.
 
 ```new_post.sh```
-```bash
+```shell
 #!/bin/sh
 
 filename=./_posts/`date +%Y-%m-%d`-$1.md # generates a name with the current date
@@ -27,7 +27,7 @@ vim $filename # opens the file for inmediate editing
 Writing blog posts is not always easy or straightforward, though, and rare is the ocassion where I finish one the same day that I start it. What if I complete a blog post, I want to publish it, and the date is all wrong? The steps couldn't be easier: I just need to change its filename to one with the current date, and change the value of the ```published``` field in the YAML field to ```true```. Again, this is quite straightforward as it is, but I've also written a small bash script to do it all in one step because... well, because I'm kind of lazy!
 
 ```publi.sh```
-```bash
+```shell
 #/bin/sh
 
 sed -i '' -e 's/published: false/published: true/' $1 # changes the published field
