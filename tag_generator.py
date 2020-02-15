@@ -13,9 +13,12 @@ import os
 
 post_dir = '_posts/'
 tag_dir = 'tag/'
+tagindex_dir = 'tagindex/'
 
 filenames = glob.glob(post_dir + '*md')
 
+
+# Retrieve the unique tags from all of the blog posts
 total_tags = []
 for filename in filenames:
     f = open(filename, 'r', encoding='utf8')
@@ -36,17 +39,34 @@ for filename in filenames:
     f.close()
 total_tags = set(total_tags)
 
+
+# Remove old and unused tag and tagindex pages
 old_tags = glob.glob(tag_dir + '*.md')
 for tag in old_tags:
     os.remove(tag)
 
+old_tags = glob.glob(tagindex_dir + '*.md')
+for tag in old_tags:
+    os.remove(tag)
+
+
+# Creates the tag/ and tagindex/ directories if they don't exist
 if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
+if not os.path.exists(tagindex_dir):
+    os.makedirs(tagindex_dir)
+
+
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
-    f = open(tag_filename, 'a')
     write_str = '---\nlayout: tagpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nmathjax: true\nrobots: noindex\n---\n'
-    f.write(write_str)
-    f.close()
+    with open(tag_filename, 'a') as f:
+        f.write(write_str)
+
+    tagindex_filename = tagindex_dir + tag + '.md'
+    write_str = '---\nlayout: tagindexpage\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+    with open(tagindex_filename, 'a') as f:
+        f.write(write_str)
+
 print("Tags generated, count", total_tags.__len__())
