@@ -81,6 +81,11 @@ html {
   margin-top: 0;
   font-family: 'Copse', serif;
   font-size: 3.25rem;
+  line-height: 90%;
+}
+
+.sidebar-about div .blog-title {
+  margin-bottom: 2rem;
 }
 
 /* Sidebar nav */
